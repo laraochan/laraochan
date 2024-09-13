@@ -5,6 +5,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=emp-temp&theme=onedark&show_icons=ture" />
 </p>
 
-<h1>Songs I'm listening to right now</h1>
+<h1>Songs I'm listening</h1>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=emp-temp)
