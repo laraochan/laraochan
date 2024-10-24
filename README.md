@@ -43,7 +43,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 ### [shiny colors](https://shinycolors.idolmaster.jp/) :new:
 - [樋口円香](https://shinycolors.idolmaster.jp/idol/noctchill/madoka.html)
 
-### [puniru is a cute slime](https://puniru-anime.com/)
+### [puniru is a cute slime](https://puniru-anime.com/) :new:
 - [ぷにる](https://puniru-anime.com/character/puniru/)
 
 
