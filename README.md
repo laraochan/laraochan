@@ -4,7 +4,9 @@
 I am a Japanese technical college student and programmer.  
 I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emp-temp&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emp-temp&theme=nord_bright)
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emp-temp&theme=nord_bright&utcOffset=9)
+
 
 ## skill
 
