@@ -33,6 +33,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 ### [hololive](https://hololivepro.com/)
 - [猫又おかゆ](https://hololive.hololivepro.com/talents/nekomata-okayu/)
 - [鷹嶺ルイ](https://hololive.hololivepro.com/talents/takane-lui/)
+- [がうる・ぐら](https://hololive.hololivepro.com/talents/gawr-gura/)
 
 ### [umamusume](https://umamusume.jp)
 - [トランセンド](https://umamusume.jp/character/transcend)
