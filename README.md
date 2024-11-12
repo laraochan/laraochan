@@ -49,3 +49,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 - tapping
 - onomatopoela
 
+
+## music I'm listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mutftjvmkov3h6n3gweb6ccr24&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mutftjvmkov3h6n3gweb6ccr24&redirect=true)
+
