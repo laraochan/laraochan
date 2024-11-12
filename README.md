@@ -37,12 +37,6 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 - [猫又おかゆ](https://hololive.hololivepro.com/talents/nekomata-okayu/)
 - [鷹嶺ルイ](https://hololive.hololivepro.com/talents/takane-lui/)
 
-### [umamusume](https://umamusume.jp)
-- [トランセンド](https://umamusume.jp/character/transcend)
-
-### [gakuen idolmaster](https://gakuen.idolmaster-official.jp/) :new:
-- [花海 佑芽](https://gakuen.idolmaster-official.jp/idol/ume/)
-
 ### [shiny colors](https://shinycolors.idolmaster.jp/) :new:
 - [樋口円香](https://shinycolors.idolmaster.jp/idol/noctchill/madoka.html)
 
