@@ -49,6 +49,3 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 - tapping
 - onomatopoela
 
-## desktop
-![desktop_screenshot](/assets/desktop/2024-10-24.png)
-
