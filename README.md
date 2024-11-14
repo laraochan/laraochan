@@ -22,7 +22,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 ## love tools
 
 ### os
-![Arch Badge](https://img.shields.io/badge/Arch%20Linux-AUR-blue?style=for-the-badge&logo=archlinux) ![NixOS Badge](https://img.shields.io/static/v1?style=for-the-badge&message=NixOS&color=5277C3&logo=NixOS&logoColor=FFFFFF&label=) ![Debian Badge](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred) ![Void Badge](https://img.shields.io/badge/void%20linux-8A2BE2?style=for-the-badge&color=478061&logo=voidlinux&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Arch Badge](https://img.shields.io/badge/Arch%20Linux-AUR-blue?style=for-the-badge&logo=archlinux) ![NixOS Badge](https://img.shields.io/static/v1?style=for-the-badge&message=NixOS&color=5277C3&logo=NixOS&logoColor=FFFFFF&label=) ![Debian Badge](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred) ![Void Badge](https://img.shields.io/badge/void%20linux-8A2BE2?style=for-the-badge&color=478061&logo=voidlinux&logoColor=white)
 
 ### editor
 ![helix Badge](https://img.shields.io/badge/helix-8A2BE2?style=for-the-badge&color=281733&logo=helix&logoColor=white)  ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
