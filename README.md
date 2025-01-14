@@ -30,23 +30,13 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ### editor
 
-![helix Badge](https://img.shields.io/badge/helix-8A2BE2?style=for-the-badge&color=281733&logo=helix&logoColor=white) ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-
-### other
-
-![Zellij Badge](https://img.shields.io/badge/zellij-8A2BE2?style=for-the-badge&color=yellow&logo=tmux&logoColor=white) ![Obsidian Badge](https://img.shields.io/badge/Obsidian-8A2BE2?style=for-the-badge&color=7C3AED&logo=obsidian&logoColor=white)
+![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
 ## love character
 
 ### [hololive](https://hololivepro.com/)
 
 - [がうる・ぐら](https://hololive.hololivepro.com/talents/gawr-gura/)
-- [猫又おかゆ](https://hololive.hololivepro.com/talents/nekomata-okayu/)
-- [鷹嶺ルイ](https://hololive.hololivepro.com/talents/takane-lui/)
-
-### [shiny colors](https://shinycolors.idolmaster.jp/) :new:
-
-- [樋口円香](https://shinycolors.idolmaster.jp/idol/noctchill/madoka.html)
 
 ### [puniru is a cute slime](https://puniru-anime.com/) :new:
 
