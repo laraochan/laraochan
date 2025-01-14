@@ -38,7 +38,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 - [がうる・ぐら](https://hololive.hololivepro.com/talents/gawr-gura/)
 
-### [puniru is a cute slime](https://puniru-anime.com/) :new:
+### [puniru is a cute slime](https://puniru-anime.com/)
 
 - [ぷにる](https://puniru-anime.com/character/puniru/)
 
