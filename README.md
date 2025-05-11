@@ -31,16 +31,16 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ## love character
 
+### [The official mascot of the Japan Air Self-Defense Force Omaezaki Sub-base (Gobunki)](https://www.mod.go.jp/asdf/omaezaki/1/index.html)
+
+- [Omaneko](https://dic.pixiv.net/a/%E3%81%8A%E3%81%BE%E3%81%AD%E3%81%93)
+
 ### [Gakuen Idolmaster](https://gakuen.idolmaster-official.jp/)
 - [Ume Hanami](https://dic.pixiv.net/a/%E8%8A%B1%E6%B5%B7%E4%BD%91%E8%8A%BD)
 
 ### [puniru is a cute slime](https://puniru-anime.com/)
 
 - [Puniru](https://dic.pixiv.net/a/%E3%81%B7%E3%81%AB%E3%82%8B)
-
-### [The official mascot of the Japan Air Self-Defense Force Omaezaki Sub-base (Gobunki)]
-
-- [Omaneko](https://dic.pixiv.net/a/%E3%81%8A%E3%81%BE%E3%81%AD%E3%81%93)
 
 ## love ASMR
 
