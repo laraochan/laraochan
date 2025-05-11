@@ -2,7 +2,7 @@
 
 ## info
 
-I am a Japanese technical college student and programmer.
+I am an engineer who deeply loves the concept of manufacturing.
 I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ## skill
