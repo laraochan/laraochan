@@ -31,16 +31,16 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ## love character
 
-### [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
-- [花海 佑芽](https://gakuen.idolmaster-official.jp/idol/ume/)
-
-### [hololive](https://hololivepro.com/)
-
-- [がうる・ぐら](https://hololive.hololivepro.com/talents/gawr-gura/)
+### [Gakuen Idolmaster](https://gakuen.idolmaster-official.jp/)
+- [Ume Hanami]([https://gakuen.idolmaster-official.jp/idol/ume/](https://dic.pixiv.net/a/%E8%8A%B1%E6%B5%B7%E4%BD%91%E8%8A%BD))
 
 ### [puniru is a cute slime](https://puniru-anime.com/)
 
-- [ぷにる](https://puniru-anime.com/character/puniru/)
+- [Puniru]([https://puniru-anime.com/character/puniru/](https://dic.pixiv.net/a/%E3%81%B7%E3%81%AB%E3%82%8B))
+
+### [The official mascot of the Japan Air Self-Defense Force Omaezaki Sub-base (Gobunki)]
+
+- [Omaneko](https://dic.pixiv.net/a/%E3%81%8A%E3%81%BE%E3%81%AD%E3%81%93)
 
 ## love ASMR
 
