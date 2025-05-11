@@ -37,7 +37,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ### [VOICEROID](https://www.ah-soft.com/voiceroid/)
 
-- [紲星あかり](https://dic.pixiv.net/a/%E7%B4%B2%E6%98%9F%E3%81%82%E3%81%8B%E3%82%8A)
+- [kizuna akari](https://dic.pixiv.net/a/%E7%B4%B2%E6%98%9F%E3%81%82%E3%81%8B%E3%82%8A)
 
 ### [Gakuen Idolmaster](https://gakuen.idolmaster-official.jp/)
 - [Ume Hanami](https://dic.pixiv.net/a/%E8%8A%B1%E6%B5%B7%E4%BD%91%E8%8A%BD)
