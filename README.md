@@ -23,11 +23,11 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ### os
 
-[![My Favorite OS](https://skillicons.dev/icons?i=apple,arch,debian)
+[![My Favorite OS](https://skillicons.dev/icons?i=apple,arch,debian)](https://skillicons.dev)
 
 ### editor
 
-[![My Favorite Editor](https://skillicons.dev/icons?i=emacs,vim,neovim)
+[![My Favorite Editor](https://skillicons.dev/icons?i=emacs,vim,neovim)](https://skillicons.dev)
 
 ## love character
 
