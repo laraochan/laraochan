@@ -27,7 +27,7 @@ I have always loved 2D and ASMR, and my hobby is watching and listening to them.
 
 ### editor
 
-[![My Favorite Editor](https://skillicons.dev/icons?i=emacs,vim,neovim)](https://skillicons.dev)
+[![My Favorite Editor](https://skillicons.dev/icons?helix,i=emacs,vim,neovim)](https://skillicons.dev)
 
 ## love character
 
