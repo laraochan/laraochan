@@ -1,6 +1,4 @@
-# :mechanical_arm:Welcome :)
-
-## info
+## larao
 I love Scratch development and ASMR.
 I'm currently developing web services at a company in Tokyo.
 I respect all creators.
@@ -23,7 +21,7 @@ I respect all creators.
 
 ### os
 
-[![My Favorite OS](https://go-skill-icons.vercel.app/api/icons?i=apple,arch,debian)](https://skillicons.dev)
+[![My Favorite OS](https://go-skill-icons.vercel.app/api/icons?i=apple,nixos,arch,debian)](https://skillicons.dev)
 
 ### editor
 
