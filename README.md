@@ -8,4 +8,4 @@ I respect all creators.
 
 ## Now Playing
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=laraochan&header_size=none)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=laraochan&header_style=compact&loved=true)](https://www.last.fm/user/laraochan)
